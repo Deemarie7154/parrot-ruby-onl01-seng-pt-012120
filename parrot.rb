@@ -5,4 +5,3 @@ def parrot(line)
 puts #{line}
 return line
 end
- parrot "money"
